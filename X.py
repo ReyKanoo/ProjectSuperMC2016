@@ -1,2 +1,1 @@
-Sosal?
-
+print('correct')
